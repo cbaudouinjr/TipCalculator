@@ -96,7 +96,7 @@
                     </view>
                     <navigationItem key="navigationItem" title="Tip Calculator" id="o02-j6-0M2"/>
                     <connections>
-                        <outlet property="billTotalLabel" destination="VwY-gi-Iro" id="qIL-UI-Iu3"/>
+                        <outlet property="billTotalTextField" destination="VwY-gi-Iro" id="Iwk-hu-etT"/>
                         <outlet property="tipAmountLabel" destination="erc-Sx-w7P" id="kXp-Ez-NfN"/>
                         <outlet property="tipControl" destination="bvT-F6-Sq8" id="fih-C3-hdq"/>
                         <outlet property="tipLabel" destination="erc-Sx-w7P" id="YHw-n2-5Rt"/>
