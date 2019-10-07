@@ -33,7 +33,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- Had to adjust from learning Android development
+- Learned how to adjust to different screen sizes using constraints
 
 ## License
 
