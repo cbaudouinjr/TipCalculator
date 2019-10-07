@@ -90,9 +90,6 @@
                             <constraint firstItem="sr2-Av-H16" firstAttribute="leading" secondItem="d6Y-da-oqT" secondAttribute="leading" id="yAU-Cs-mAa"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
-                        <connections>
-                            <outletCollection property="gestureRecognizers" destination="QbD-bL-uRd" appends="YES" id="p7x-03-2zr"/>
-                        </connections>
                     </view>
                     <navigationItem key="navigationItem" title="Tip Calculator" id="o02-j6-0M2"/>
                     <connections>
@@ -104,11 +101,6 @@
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
-                <tapGestureRecognizer id="QbD-bL-uRd">
-                    <connections>
-                        <action selector="onTap:" destination="BYZ-38-t0r" id="pfC-7Q-geV"/>
-                    </connections>
-                </tapGestureRecognizer>
             </objects>
             <point key="canvasLocation" x="1076" y="138.0809595202399"/>
         </scene>
